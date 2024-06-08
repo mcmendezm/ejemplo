@@ -1,0 +1,40 @@
+.navbar{
+    color: gray;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 60px ;
+
+}
+.navProduct{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 15px;
+}
+.navSection{
+display: flex;
+align-items: center;
+gap: 15px;
+}
+a{
+    text-decoration: none;
+    color: inherit
+}
+.uno{
+    color: blue;
+}
+.dos{
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+.tres{
+    color: aqua;
+}
+.logo{
+    font-family: "Dancing Script", cursive;
+    font-size: 40px;
+}
